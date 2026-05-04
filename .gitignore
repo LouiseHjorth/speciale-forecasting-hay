@@ -1,0 +1,26 @@
+# Data
+data/
+raw_data/
+processed_data/
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+
+# Outputs
+outputs/
+results/
+figures/
+models/
+*.png
+*.jpg
+*.pdf
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+
+# Mac
+.DS_Store
